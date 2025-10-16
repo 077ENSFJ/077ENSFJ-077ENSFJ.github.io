@@ -425,14 +425,27 @@
   
   
 
-  <section class="background" data-size="page">
+  <section class="background" data-size="2.5rem">
     <h2 id="feagine-one">FEAGINE ONE</h2>
 
-<link rel="stylesheet" href="css/style.css">
+<!-- 视频区域（含顶部文字框） -->
+<section style="width: 100vw; margin: 40px calc(-50vw + 50%); padding: 0; background: #000; position: relative;">
+  <!-- 顶部三个文字框（占页面10%高度） -->
+  <div style="width: 100%; height: 10vh; padding: 0 20px; display: flex; justify-content: space-around; align-items: center; position: relative; z-index: 10;">
+    <div style="width: 30%; height: 80%; background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.3); display: flex; align-items: center; justify-content: center; padding: 10px; text-align: center; color: white;">
+      擎羽科技）
+    </div>
+    <div style="width: 30%; height: 80%; background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.3); display: flex; align-items: center; justify-content: center; padding: 10px; text-align: center; color: white;">
+      以仿生柔性操作重构机器人的劳作边界
+    </div>
+    <div style="width: 30%; height: 80%; background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.3); display: flex; align-items: center; justify-content: center; padding: 10px; text-align: center; color: white;">
+      专注于柔性机械臂的创新与应用
+    </div>
+  </div>
 
-<section class="hero-section">
-  <div class="hero-video-container">
-    <video width="100%" controls="" autoplay="" muted="" playsinline="" loop="" class="main-video">
+  <!-- 16:9比例视频区域 -->
+  <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
+    <video controls="" autoplay="" muted="" playsinline="" loop="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain; display: block; border-radius: 4px;">
       <source src="./xiaobanben.mp4" type="video/mp4"></source>
       <div style="color: white; text-align: center; padding: 100px 20px;">
         <h3>FEAGINE ONE - Origami Manipulator</h3>
@@ -442,64 +455,69 @@
   </div>
 </section>
 
-<!-- 产品功能介绍部分 -->
-<section class="features-section">
-    <h2>产品功能介绍</h2>
-    <div class="features-grid">
-        <!-- 第一行 -->
-        <div class="feature-item">
-            <video autoplay="" muted="" loop="" playsinline="">
-                <source src="./video1.mp4" type="video/mp4"></source>
-            </video>
-            <div class="feature-caption">
-                <p>智能抓取</p>
-            </div>
-        </div>
-        <div class="feature-item">
-            <video autoplay="" muted="" loop="" playsinline="">
-                <source src="./video2.mp4" type="video/mp4"></source>
-            </video>
-            <div class="feature-caption">
-                <p>精准定位</p>
-            </div>
-        </div>
-        <div class="feature-item">
-            <video autoplay="" muted="" loop="" playsinline="">
-                <source src="./video3.mp4" type="video/mp4"></source>
-            </video>
-            <div class="feature-caption">
-                <p>柔性控制</p>
-            </div>
-        </div>
+<!-- 按钮区域 -->
+<div style="text-align: center; margin: 40px 0;">
+  
+  
+  
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="/077ENSFJ-077ENSFJ.github.io/Origami" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
+      <i class="icon fa-solid fa-arrow-right"></i>
+      
+        <span>Origami Manipulator</span>
+      
+    </a>
+  </div>
+
+
+  
+</div>
+
+<!-- 产品功能介绍区域 -->
+<section style="width: 100vw; margin: 40px calc(-50vw + 50%); padding: 80px 20px; background: #000;">
+  <h2 style="text-align: center; margin-bottom: 60px; color: white; font-size: 2.5rem;">产品功能介绍</h2>
+  
+  <!-- 三个并列短视频 -->
+  <div style="display: flex; justify-content: space-between; gap: 30px; max-width: 1800px; margin: 0 auto;">
+    <!-- 第一个视频及文字 -->
+    <div style="flex: 1;">
+      <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
+        <video autoplay="" muted="" playsinline="" loop="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+          <source src="./video1.mp4" type="video/mp4"></source>
+        </video>
+      </div>
+      <div style="margin-top: 20px; padding: 15px; background: rgba(255,255,255,0.1); text-align: center; color: white;">
+        功能介绍1（后续填入内容）
+      </div>
     </div>
 
-    <!-- 第二行 -->
-    <div class="features-grid" style="margin-top: 30px;">
-        <div class="feature-item">
-            <video autoplay="" muted="" loop="" playsinline="">
-                <source src="./video4.mp4" type="video/mp4"></source>
-            </video>
-            <div class="feature-caption">
-                <p>自适应调节</p>
-            </div>
-        </div>
-        <div class="feature-item">
-            <video autoplay="" muted="" loop="" playsinline="">
-                <source src="./video5.mp4" type="video/mp4"></source>
-            </video>
-            <div class="feature-caption">
-                <p>多场景应用</p>
-            </div>
-        </div>
-        <div class="feature-item">
-            <video autoplay="" muted="" loop="" playsinline="">
-                <source src="./video6.mp4" type="video/mp4"></source>
-            </video>
-            <div class="feature-caption">
-                <p>安全协作</p>
-            </div>
-        </div>
+    <!-- 第二个视频及文字 -->
+    <div style="flex: 1;">
+      <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
+        <video autoplay="" muted="" playsinline="" loop="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+          <source src="./video2.mp4" type="video/mp4"></source>
+        </video>
+      </div>
+      <div style="margin-top: 20px; padding: 15px; background: rgba(255,255,255,0.1); text-align: center; color: white;">
+        功能介绍2（后续填入内容）
+      </div>
     </div>
+
+    <!-- 第三个视频及文字 -->
+    <div style="flex: 1;">
+      <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
+        <video autoplay="" muted="" playsinline="" loop="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+          <source src="./video3.mp4" type="video/mp4"></source>
+        </video>
+      </div>
+      <div style="margin-top: 20px; padding: 15px; background: rgba(255,255,255,0.1); text-align: center; color: white;">
+        功能介绍3（后续填入内容）
+      </div>
+    </div>
+  </div>
 </section>
   </section>
 
