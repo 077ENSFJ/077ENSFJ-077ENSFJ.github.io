@@ -1,3 +1,6 @@
+--
+--
+
 ## FEAGINE ONE
 
 <!-- 视频区域（含居中文字） -->
@@ -19,17 +22,26 @@
       </div>
     </video>
 
-    <!-- 浮于视频中心的文字（三行排列，背景透明） -->
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10; text-align: center; color: white; width: 100%; max-width: 800px; padding: 0 20px;">
-      <div style="font-size: 3rem; font-weight: bold; margin-bottom: 15px;">擎羽科技</div>
-      <div style="font-size: 1.2rem; margin-bottom: 8px; opacity: 0.2;">以仿生柔性操作重构机器人的劳作边界</div>
-      <div style="font-size: 1.2rem; opacity: 0.2;">专注于柔性机械臂的创新与应用</div>
+    <!-- 浮于视频中心的文字（三行排列，背景透明20%） -->
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10; text-align: center; width: 100%; max-width: 800px; padding: 0 20px;">
+      <!-- 擎羽科技（最大字体） -->
+      <div style="font-size: 3.5rem; font-weight: bold; margin-bottom: 20px; color: white; background: rgba(0,0,0,0.2); padding: 10px 20px; display: inline-block;">
+        擎羽科技
+      </div>
+      
+      <!-- 下方两行文本（较小字体） -->
+      <div style="font-size: 1.2rem; margin-bottom: 10px; color: white; background: rgba(0,0,0,0.2); padding: 5px 15px; display: inline-block;">
+        以仿生柔性操作重构机器人的劳作边界
+      </div>
+      <div style="font-size: 1.2rem; color: white; background: rgba(0,0,0,0.2); padding: 5px 15px; display: inline-block;">
+        专注于柔性机械臂的创新与应用
+      </div>
     </div>
   </div>
 </section>
 
 <!-- 按钮区域 -->
-<div style="text-align: center; margin: 40px 0;">
+<div style="text-align: center; margin: 40px 0; background: #000; padding: 20px 0;">
   {% capture text %}
   {%
     include button.html
