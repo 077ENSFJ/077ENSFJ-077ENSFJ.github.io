@@ -1,23 +1,5 @@
----
----
- 
-## FEAGINE ONE
-
-<!-- 视频区域（含顶部文字框） -->
+<!-- 视频区域（含居中文字） -->
 <section style="width: 100vw; margin: 40px calc(-50vw + 50%); padding: 0; background: #000; position: relative;">
-  <!-- 顶部三个文字框（占页面10%高度） -->
-  <div style="width: 100%; height: 10vh; padding: 0 20px; display: flex; justify-content: space-around; align-items: center; position: relative; z-index: 10;">
-    <div style="width: 30%; height: 80%; background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.3); display: flex; align-items: center; justify-content: center; padding: 10px; text-align: center; color: white;">
-      擎羽科技）
-    </div>
-    <div style="width: 30%; height: 80%; background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.3); display: flex; align-items: center; justify-content: center; padding: 10px; text-align: center; color: white;">
-      以仿生柔性操作重构机器人的劳作边界
-    </div>
-    <div style="width: 30%; height: 80%; background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.3); display: flex; align-items: center; justify-content: center; padding: 10px; text-align: center; color: white;">
-      专注于柔性机械臂的创新与应用
-    </div>
-  </div>
-
   <!-- 16:9比例视频区域 -->
   <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
     <video 
@@ -34,6 +16,13 @@
         <p>视频加载中...</p>
       </div>
     </video>
+
+    <!-- 浮于视频中心的文字（三行排列，背景透明） -->
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10; text-align: center; color: white; width: 100%; max-width: 800px; padding: 0 20px;">
+      <div style="font-size: 3rem; font-weight: bold; margin-bottom: 15px;">擎羽科技</div>
+      <div style="font-size: 1.2rem; margin-bottom: 8px; opacity: 0.2;">以仿生柔性操作重构机器人的劳作边界</div>
+      <div style="font-size: 1.2rem; opacity: 0.2;">专注于柔性机械臂的创新与应用</div>
+    </div>
   </div>
 </section>
 
