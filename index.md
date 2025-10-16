@@ -5,15 +5,17 @@
 
 <!-- 视频区域（含顶部文字框） -->
 <section style="width: 100vw; margin: 40px calc(-50vw + 50%); padding: 0; background: #000; position: relative;">
-  <!-- 顶部三个文字框（占页面10%高度） -->
-  <div style="width: 100%; height: 10vh; padding: 0 20px; display: flex; justify-content: space-around; align-items: center; position: relative; z-index: 10;">
-    <div style="width: 30%; height: 80%; background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.3); display: flex; align-items: center; justify-content: center; padding: 10px; text-align: center; color: white;">
-      擎羽科技）
+  <!-- 居中文字浮层（20%透明黑背景） -->
+  <div style="width: 60%; height: auto; padding: 30px 20px; display: flex; flex-direction: column; justify-content: center; align-items: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10; background: rgba(0,0,0,0.2); border-radius: 4px;">
+    <!-- 突出显示“擎羽科技” -->
+    <div style="margin-bottom: 15px; text-align: center; color: white; font-size: 1.8rem; font-weight: bold; letter-spacing: 2px;">
+      擎羽科技
     </div>
-    <div style="width: 30%; height: 80%; background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.3); display: flex; align-items: center; justify-content: center; padding: 10px; text-align: center; color: white;">
+    <!-- 下方两行文字依次排列 -->
+    <div style="margin-bottom: 10px; text-align: center; color: white; font-size: 1.1rem;">
       以仿生柔性操作重构机器人的劳作边界
     </div>
-    <div style="width: 30%; height: 80%; background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.3); display: flex; align-items: center; justify-content: center; padding: 10px; text-align: center; color: white;">
+    <div style="text-align: center; color: white; font-size: 1.1rem;">
       专注于柔性机械臂的创新与应用
     </div>
   </div>
