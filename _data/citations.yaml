@@ -1,264 +1,345 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+
+## 2024
+
+- id: https://doi.org/10.1002/aisy.202400243
+  title: EVI-SAM Robust, Real-Time, Tightly-Coupled Event–Visual–Inertial State Estimation and 3D Dense Mapping
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+  - Weipeng Guan
+  - Peiyu Chen
+  - Huibin Zhao
+  - Yu Wang
+  - Peng Lu
+  publisher: Advanced Intelligent Systems
+  date: '2024-7-5'
+  link: https://www.youtube.com/watch?v=Nn40U4e5Si8
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10517396
+  title: HMA-SAR Multi-Agent Search and Rescue for Unknown Located Dynamic Targets in Completely Unknown Environments
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  - Xiao Cao
+  - Mingyang Li
+  - Yuting Tao
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2024-5-1'
+  link: https://www.youtube.com/watch?v=0yFJ-mrWTvc
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10463132
+  title: MorAL Learning Morphologically Adaptive Locomotion Controller for Quadrupedal Robots on Challenging Terrains
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+  - Zeren Luo
+  - Yinzhao Dong
+  - Xinqi Li
+  - Rui Huang
+  - Zhengjie Shu
+  - Erdong Xiao
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2024-3-12'
+  link: https://www.youtube.com/watch?v=EjR2OkiLzTA
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10427985
+  title: A Tendon-Driven Continuum Manipulator With Robust Shape Estimation by Multiple IMUs
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+  - Rui Peng
+  - Yu Wang
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2024-2-8'
+  link: https://www.youtube.com/watch?v=NySiQxn35k4
+  image: images/icon.png
+
+## 2023
+
+- id: https://ieeexplore.ieee.org/document/10342726
+  title: ECMD An Event-Centric Multisensory Driving Dataset for SLAM
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+  - Peiyu Chen
+  - Weipeng Guan
+  - Feng Huang
+  - Yihan Zhong
+  - Weisong Wen
+  - Li-Ta Hsu
+  - Peng Lu
+  publisher: IEEE Transactions on Intelligent Vehicles
+  date: '2023-12-5'
+  link: https://ieeexplore.ieee.org/document/10342726
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10305254
+  title: FT-Net Learning Failure Recovery and Fault-Tolerant Locomotion for Quadruped Robots
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+  - Zeren Luo
+  - Erdong Xiao
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-11-2'
+  link: https://www.youtube.com/watch?v=ZSfbIHy495Y
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10287884
+  title: PL-EVIO Robust Monocular Event-Based Visual Inertial Odometry With Point and Line Features
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+  - Weipeng Guan
+  - Peiyu Chen
+  - Yuhan Xie
+  - Peng Lu
+  publisher: IEEE Transactions on Automation Science and Engineering
+  date: '2023-10-19'
+  link: https://www.youtube.com/watch?v=KnWZ4anBMK4
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10184073
+  title: Learning Agile Flights Through Narrow Gaps with Varying Angles Using Onboard Sensing
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Yuhan Xie
+  - Minghao Lu
+  - Rui Peng
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-7-14'
+  link: https://www.youtube.com/watch?v=06F6YDsypPQ
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10179014
+  title: Flying in Dynamic Scenes With Multitarget Velocimetry and Perception-Enhanced Planning
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - Han Chen
+  - Chih-Yung Wen
+  - Fei Gao
+  - Peng Lu
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2023-7-11'
+  link: https://ieeexplore.ieee.org/document/10179014
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10138109
+  title: Filtering 2D-3D Outliers by Camera Adjustment for Visual Odometry
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  - Ran Duan
+  - Danda Pani Paudel
+  - Chih-Yung Wen
+  - Peng Lu
+  publisher: IEEE Transactions on Instrumentation and Measurement
+  date: '2023-5-29'
+  link: https://ieeexplore.ieee.org/document/10138109
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10111056
+  title: Scale-Aware Domain Adaptation for Robust UAV Tracking
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Changhong Fu
+  - Teng Li
+  - Junjie Ye
+  - Guangze Zheng
+  - Sihang Li
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-4-28'
+  link: https://ieeexplore.ieee.org/document/10111056
+  image: images/icon.png
+
+- id: https://www.sciencedirect.com/science/article/abs/pii/S0957415823001502?dgcid=author
+  title: Fast Planning Approach for 3D Short Trajectory with a Parallel Framework
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Han Chen
+  - Shengyang Chen
+  - Chih-Yung Wen
+  - Peng Lu
+  publisher: Mechatronics
+  date: '2023-4-28'
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0957415823001502?dgcid=author
+  image: images/icon.png
+
+- id: https://link.springer.com/article/10.1007/s10846-023-01819-0
+  title: DRL-based Path Planner and its Application in Real Quadrotor with LIDAR
+  authors:
+  - Yongsheng Yang
+  - Zhiwei Hou
+  - Hongbo Chen
+  - Peng Lu
+  publisher: Journal of Intelligent & Robotic Systems
+  date: '2023-3-13'
+  link: https://link.springer.com/article/10.1007/s10846-023-01819-0
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10107754
+  title: ESVIO Event-Based Stereo Visual Inertial Odometry
+  authors:
+  - Peiyu Chen
+  - Weipeng Guan
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-4-25'
+  link: https://www.youtube.com/watch?v=XqAm1q0alNY
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/10081306
+  title: AeCoM An Aerial Continuum Manipulator With IMU-Based Kinematic Modeling and Tendon-Slacking Prevention
+  authors:
+  - Rui Peng
+  - Zehao Wang
+  - Peng Lu
+  publisher: IEEE Transactions on Systems, Man, and Cybernetics Systems
+  date: '2023-3-27'
+  link: https://www.youtube.com/watch?v=6yFvrTu7Gqw
+  image: images/icon.png
+
+## 2022
+
+- id: https://ieeexplore.ieee.org/document/9881875
+  title: Perception and Avoidance of Multiple Small Fast Moving Objects for Quadrotors With Only Low-Cost RGBD Camera
+  authors:
+  - Minghao Lu
+  - Han Chen
+  - Peng Lu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2022-9-8'
+  link: https://www.youtube.com/watch?v=n1rlnFTOBGE
+  image: images/icon.png
+
+- id: https://www.youtube.com/watch?v=RDgxKQW--kM
+  title: Terminal Sliding Mode Control for Quadrotors with Chattering Reduction and Disturbances Estimator Theory and Application
+  authors:
+  - Zhiwei Hou
+  - Xiang Yu
+  - Peng Lu
+  publisher: Journal of Intelligent & Robotic Systems
+  date: '2022-7-16'
+  link: https://www.youtube.com/watch?v=RDgxKQW--kM
+  image: images/icon.png
+
+- id: https://www.sciencedirect.com/science/article/abs/pii/S0921889022000665
+  title: Real-time identification and avoidance of simultaneous static and dynamic obstacles on point cloud for UAVs navigation
+  authors:
+  - Han Chen
+  - Peng Lu
+  publisher: Robotics and Autonomous Systems
+  date: '2022-4-30'
+  link: https://www.youtube.com/watch?v=5CwFATodSvU
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9690581
+  title: Stereo Orientation Prior for UAV Robust and Accurate Visual Odometry
+  authors:
+  - Ran Duan
+  - Danda Pani Paudel
+  - Changhong Fu
+  - Peng Lu
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2022-1-25'
+  link: https://www.youtube.com/watch?v=VfmFdpIEhFM
+  image: images/icon.png
+
+## 2021
+
+- id: https://ieeexplore.ieee.org/document/9530254
+  title: Flying Through a Narrow Gap Using End-to-End Deep Reinforcement Learning Augmented With Curriculum Learning and Sim2Real
+  authors:
+  - Chenxi Xiao
+  - Peng Lu
+  - Qizhi He
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2021-9-6'
+  link: https://www.youtube.com/watch?v=gfAfFnjN18A
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9636765
+  title: A Motion decoupled Aerial Robotic Manipulator for Better Inspection
+  authors:
+  - Rui Peng
+  - Xianda Chen
+  - Peng Lu
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2021-10-1'
+  link: https://www.youtube.com/watch?v=a056onq0OPM
+  image: images/icon.png
+
+## 2020
+
+- id: https://ieeexplore.ieee.org/document/9211802
+  title: Angular acceleration estimation-based incremental nonlinear dynamic inversion for robust flight control
+  authors:
+  - Peng Lu
+  - Erik-Jan van Kampen
+  - Coen de Visser
+  - Qiping Chu
+  publisher: IEEE Transactions on Control Systems Technology
+  date: '2020-10-2'
+  link: https://github.com/lplp8899/ADS_FDD_Turbulence
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9197252
+  title: Training-set distillation for real-time uav object tracking
+  authors:
+  - Fan Li
+  - Changhong Fu
+  - Fuling Lin
+  - Yiming Li
+  - Peng Lu
+  publisher: IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2020-5-1'
+  link: https://ieeexplore.ieee.org/document/9197252
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9340778
+  title: Computationally Efficient Obstacle Avoidance Trajectory Planner for UAVs Based on Heuristic Angular Search Method
+  authors:
+  - Han Chen
+  - Peng Lu
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2020-10-1'
+  link: https://ieeexplore.ieee.org/document/9340778
+  image: images/icon.png
+
+
+## 2019
+
+- id: https://ieeexplore.ieee.org/document/8970476
+  title: Adaptive Unscented Kalman Filter-based Disturbance Rejection With Application to High Precision Hydraulic Robotic Control
+  authors:
+  - Peng Lu
+  - Timothy Sandy
+  - Jonas Buchli
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2019-10-2'
+  link: https://ieeexplore.ieee.org/document/8970476
+  image: images/icon.png
+
+- id: https://ieeexplore.ieee.org/document/9009064
+  title: Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking
+  authors:
+  - Ziyuan Huang
+  - Changhong Fu
+  - Yiming Li
+  - Fuling Lin
+  - Peng Lu
+  publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2019-10-27'
+  link: https://ieeexplore.ieee.org/document/9009064
+  image: images/icon.png
+
+## 2018
+
+- id: https://ieeexplore.ieee.org/abstract/document/8593739
+  title: PAMPC Perception-Aware Model Predictive Control for Quadrotors
+  authors:
+  - Davide Falanga
+  - Philipp Foehn
+  - Peng Lu
+  - Davide Scaramuzza
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: '2018-10-2'
+  link: https://ieeexplore.ieee.org/abstract/document/8593739
+  image: images/icon.png
+
+
+
+
+
+
+

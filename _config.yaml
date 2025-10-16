@@ -1,20 +1,19 @@
 # site properties and page defaults
-title: 077ENSFJ
+title: Flexcom Tech Limited
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+description: Flexcom Tech Limited
+header: images/logo.png
+footer: images/logo.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@077ENSFJ.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: 077ENSFJ
-  twitter: 077ENSFJ
-  youtube: 077ENSFJ
-
+  email: pengrui-rio@connect.hku.hk
+  # google-scholar: ts7ItWgAAAAJ&hl=en
+  # github: arclab-hku
+  # twitter: video/BV1W3411R7D4
+  # youtube: channel/UCUSh4UqeJ9XxUXJQuni6LJA/videos
+  
 ### jekyll settings
 
 # front matter defaults
