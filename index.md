@@ -19,7 +19,6 @@
       专注于柔性机械臂的创新与应用
     </div>
   </div>
-
   <!-- 16:9比例视频区域 -->
   <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
     <video 
@@ -38,22 +37,6 @@
     </video>
   </div>
 </section>
-
-<!-- 按钮区域 -->
-<div style="text-align: center; margin: 40px 0;">
-  {% capture text %}
-  {%
-    include button.html
-    link="Origami"
-    text="Origami Manipulator"
-    icon="fa-solid fa-arrow-right"
-    flip=true
-    style="bare"
-  %}
-  {% endcapture %}
-  {{ text }}
-</div>
-
 <!-- 产品功能介绍区域 -->
 <section style="width: 100vw; margin: 40px calc(-50vw + 50%); padding: 80px 20px; background: #000;">
   <h2 style="text-align: center; margin-bottom: 60px; color: white; font-size: 2.5rem;">产品功能介绍</h2>
