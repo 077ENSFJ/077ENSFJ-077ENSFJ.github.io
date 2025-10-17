@@ -1,6 +1,28 @@
 
 ---
+---
+style: |
+  <style>
+    /* 隐藏模板 header/footer */
+    header, footer { display: none !important; }
 
+    /* 页尾联系方式：更小、绝对居中 */
+    #contact {
+      font-size: 0.9rem;          /* 比正文小一号 */
+      text-align: center;
+      padding: 20px 0;            /* 上下留一点呼吸感 */
+    }
+
+    /* 整页高度兜底，防止出现上下黑色空隙 */
+    html, body { height: 100%; margin: 0; }
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    main { flex: 1; }             /* 把内容区撑满，页尾自然落底 */
+  </style>
+---
 <!-- 标题区域（黑色背景） -->
 <section style="width: 100vw; margin: 0 calc(-50vw + 50%); padding: 40px 20px; background: #000; text-align: center;">
   <h1 style="color: white; font-size: 2.5rem; margin: 0;">
@@ -76,14 +98,8 @@
 </section>
 
 <!-- 联系方式（黑色背景） -->
-<section style="width: 100vw; margin: 0 calc(-50vw + 50%); padding: 40px 20px; background: #000; text-align: center;">
-  <p style="color: white; font-size: 1.2rem; margin: 0;">
+<section id="contact" style="width: 100vw; margin: 0 calc(-50vw + 50%); background: #000;">
+  <p style="color: white; margin: 0;">
     联系方式：<a href="mailto:contact@feagine.com" style="color: white; text-decoration: underline;">contact@feagine.com</a>
   </p>
 </section>
-style: |
-  <style>
-    header, footer {
-      display: none !important;
-    }
-  </style>
