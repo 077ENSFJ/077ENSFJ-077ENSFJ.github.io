@@ -1,10 +1,4 @@
----
-style: |
-  <style>
-    header, footer {
-      display: none !important;
-    }
-  </style>
+
 ---
 
 <!-- 标题区域（黑色背景） -->
@@ -87,3 +81,9 @@ style: |
     联系方式：<a href="mailto:contact@feagine.com" style="color: white; text-decoration: underline;">contact@feagine.com</a>
   </p>
 </section>
+style: |
+  <style>
+    header, footer {
+      display: none !important;
+    }
+  </style>
