@@ -1,9 +1,9 @@
-<!-- 顶部标题区：强制黑色 -->
-<section style="width: 100vw; margin: 0 calc(-50vw + 50%); padding: 40px 20px; background: #000; text-align: center;">
-  <h1 style="color: white; font-size: 2.5rem; margin: 0;">
-    擎羽科技 <span style="font-weight: normal;">FEAGINE ONE</span>
-  </h1>
-</section>
+
+---
+---
+ 
+## FEAGINE ONE
+
 <!-- 视频区域（含顶部文字框） -->
 <section style="width: 100vw; margin: 0 calc(-50vw + 50%); padding: 0; background: #000; position: relative;">
   <!-- 居中文字浮层（纯透明背景） -->
@@ -88,9 +88,4 @@ style: |
     }
   </style>
 ---
-</section>
-<section id="contact" style="width: 100vw; margin: 0 calc(-50vw + 50%); background: #000;">
-  <p style="color: white; margin: 0;">
-    联系方式：<a href="mailto:contact@feagine.com" style="color: white; text-decoration: underline;">contact@feagine.com</a>
-  </p>
-</section>
+</section> 
