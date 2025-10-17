@@ -79,4 +79,12 @@
       </div>
     </div>
   </div>
+  ---
+style: |
+  <style>
+    header, footer {
+      display: none !important;
+    }
+  </style>
+---
 </section>
