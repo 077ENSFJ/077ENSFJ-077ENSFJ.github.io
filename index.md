@@ -1,42 +1,14 @@
 
----
----
-style: |
-  <style>
-    /* 隐藏模板 header/footer */
-    header, footer { display: none !important; }
-
-    /* 页尾联系方式：更小、绝对居中 */
-    #contact {
-      font-size: 0.9rem;          /* 比正文小一号 */
-      text-align: center;
-      padding: 20px 0;            /* 上下留一点呼吸感 */
-    }
-
-    /* 整页高度兜底，防止出现上下黑色空隙 */
-    html, body { height: 100%; margin: 0; }
-    body {
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
-    }
-    main { flex: 1; }             /* 把内容区撑满，页尾自然落底 */
-  </style>
----
-<!-- 标题区域（黑色背景） -->
-<section style="width: 100vw; margin: 0 calc(-50vw + 50%); padding: 40px 20px; background: #000; text-align: center;">
-  <h1 style="color: white; font-size: 2.5rem; margin: 0;">
-    擎羽科技 <span style="font-weight: normal;">FEAGINE ONE</span>
-  </h1>
-</section>
 
 <!-- 视频区域（含顶部文字框） -->
 <section style="width: 100vw; margin: 0 calc(-50vw + 50%); padding: 0; background: #000; position: relative;">
   <!-- 居中文字浮层（纯透明背景） -->
   <div style="width: 60%; height: auto; padding: 30px 20px; display: flex; flex-direction: column; justify-content: center; align-items: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10; border-radius: 4px;">
+    <!-- 突出显示“擎羽科技” -->
     <div style="margin-bottom: 15px; text-align: center; color: white; font-size: 1.8rem; font-weight: bold; letter-spacing: 2px;">
       擎羽科技
     </div>
+    <!-- 下方两行文字依次排列 -->
     <div style="margin-bottom: 10px; text-align: center; color: white; font-size: 1.1rem;">
       以仿生柔性操作重构机器人的劳作边界
     </div>
@@ -46,7 +18,14 @@ style: |
   </div>
   <!-- 16:9比例视频区域 -->
   <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
-    <video controls autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain; display: block; border-radius: 4px;">
+    <video 
+      controls 
+      autoplay 
+      muted 
+      playsinline 
+      loop
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain; display: block; border-radius: 4px;"
+    >
       <source src="./xiaobanben.mp4" type="video/mp4">
       <div style="color: white; text-align: center; padding: 100px 20px;">
         <h3>FEAGINE ONE - Origami Manipulator</h3>
@@ -55,13 +34,13 @@ style: |
     </video>
   </div>
 </section>
-
 <!-- 产品功能介绍区域 -->
 <section style="width: 100vw; margin: 0 calc(-50vw + 50%); padding: 80px 20px; background: #000;">
   <h2 style="text-align: center; margin-bottom: 60px; color: white; font-size: 2.5rem;">产品功能介绍</h2>
   
   <!-- 三个并列短视频 -->
   <div style="display: flex; justify-content: space-between; gap: 30px; max-width: 1800px; margin: 0 auto;">
+    <!-- 第一个视频及文字 -->
     <div style="flex: 1;">
       <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
         <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
@@ -73,6 +52,7 @@ style: |
       </div>
     </div>
 
+    <!-- 第二个视频及文字 -->
     <div style="flex: 1;">
       <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
         <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
@@ -84,6 +64,7 @@ style: |
       </div>
     </div>
 
+    <!-- 第三个视频及文字 -->
     <div style="flex: 1;">
       <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
         <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
@@ -95,11 +76,12 @@ style: |
       </div>
     </div>
   </div>
-</section>
-
-<!-- 联系方式（黑色背景） -->
-<section id="contact" style="width: 100vw; margin: 0 calc(-50vw + 50%); background: #000;">
-  <p style="color: white; margin: 0;">
-    联系方式：<a href="mailto:contact@feagine.com" style="color: white; text-decoration: underline;">contact@feagine.com</a>
-  </p>
-</section>
+  ---
+style: |
+  <style>
+    header, footer {
+      display: none !important;
+    }
+  </style>
+---
+</section> 
