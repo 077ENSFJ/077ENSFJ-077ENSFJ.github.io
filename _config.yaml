@@ -1,14 +1,7 @@
-# site properties and page defaults
-title: Flexcom Tech Limited
-subtitle: 
-description: Flexcom Tech Limited
-header: images/logo.png
-footer: images/logo.png
-proofer: false
 
 # site social media and other links
 links:
-  email: pengrui-rio@connect.hku.hk
+  email: contact@feagine.com
   # google-scholar: ts7ItWgAAAAJ&hl=en
   # github: arclab-hku
   # twitter: video/BV1W3411R7D4

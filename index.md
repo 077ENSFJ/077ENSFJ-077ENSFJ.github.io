@@ -5,8 +5,8 @@
 
 <!-- 视频区域（含顶部文字框） -->
 <section style="width: 100vw; margin: 0 calc(-50vw + 50%); padding: 0; background: #000; position: relative;">
-  <!-- 居中文字浮层（20%透明黑背景） -->
-  <div style="width: 60%; height: auto; padding: 30px 20px; display: flex; flex-direction: column; justify-content: center; align-items: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10; background: rgba(0,0,0,0.2); border-radius: 4px;">
+  <!-- 居中文字浮层（纯透明背景） -->
+  <div style="width: 60%; height: auto; padding: 30px 20px; display: flex; flex-direction: column; justify-content: center; align-items: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10; border-radius: 4px;">
     <!-- 突出显示“擎羽科技” -->
     <div style="margin-bottom: 15px; text-align: center; color: white; font-size: 1.8rem; font-weight: bold; letter-spacing: 2px;">
       擎羽科技
