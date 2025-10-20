@@ -47,11 +47,11 @@
     <div style="flex: 1;">
       <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
         <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
-          <source src="./video1.mp4" type="video/mp4">
+          <source src="./zishiying.mp4" type="video/mp4">
         </video>
       </div>
       <div style="margin-top: 20px; padding: 15px; background: rgba(255,255,255,0.1); text-align: center; color: white;">
-        功能介绍1（后续填入内容）
+        自适应力度抓取
       </div>
     </div>
 
