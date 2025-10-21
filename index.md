@@ -13,7 +13,7 @@
       以仿生柔性操作重构机器人的劳作边界
     </div>
     <div style="text-align: center; color: white; font-size: 1.1rem;">
-      专注于柔性机械臂创新与应用
+      专注于柔性机械臂的创新与应用
     </div>
   </div>
   <!-- 16:9比例视频区域 -->
@@ -26,7 +26,7 @@
       loop
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain; display: block; border-radius: 4px;"
     >
-      <source src="./yifenzhong(xiao).mp4" type="video/mp4">
+      <source src="./xiaobanben.mp4" type="video/mp4">
       <div style="color: white; text-align: center; padding: 100px 20px;">
         <h3>FEAGINE ONE - Origami Manipulator</h3>
         <p>视频加载中...</p>
@@ -54,38 +54,38 @@
     </div>
 
     <!-- 第二个视频及文字 -->
-   <div>
-      <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
-        <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 4px;">
-          <source src="./keshihua.mp4" type="video/mp4">
+  <div>
+    <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
+      <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 4px;">
+          <source src="./video2.mp4" type="video/mp4">
         </video>
       </div>
       <div style="margin-top: 20px; padding: 15px; background: rgba(0,0,0,0.7); text-align: center; color: white; border-radius: 4px;">
-        可视化运动界面
+        功能介绍2（后续填入内容）
       </div>
     </div>
 
     <!-- 第三个视频及文字 -->
   <div>
-      <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
-        <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 4px;">
-          <source src="./yidongjiaodu.mp4" type="video/mp4">
+    <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
+      <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 4px;">
+          <source src="./video3.mp4" type="video/mp4">
         </video>
       </div>
       <div style="margin-top: 20px; padding: 15px; background: rgba(0,0,0,0.7); text-align: center; color: white; border-radius: 4px;">
-        机械臂移动范围
+        功能介绍3（后续填入内容）
       </div>
     </div>
 
     <!-- 第四个视频及文字（新增） -->
   <div>
-      <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
-        <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 4px;">
-          <source src=".moduan yidongsudu/.mp4" type="video/mp4"> <!-- 替换为实际视频路径 -->
+    <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
+       <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 4px;">
+          <source src="./video4.mp4" type="video/mp4"> <!-- 替换为实际视频路径 -->
         </video>
       </div>
       <div style="margin-top: 20px; padding: 15px; background: rgba(0,0,0,0.7); text-align: center; color: white; border-radius: 4px;">
-        末端移动速度
+        功能介绍4（后续填入内容）
       </div>
     </div>
   </div>
