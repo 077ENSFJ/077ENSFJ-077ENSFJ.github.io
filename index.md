@@ -53,7 +53,7 @@
     </div>
 
   <!-- 第二个视频及文字 -->
-   <div style="flex: 1;">
+ <div style="flex: 1;">
     <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
       <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
           <source src="./moduan yidongsudu.mp4" type="video/mp4">
