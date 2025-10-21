@@ -13,7 +13,7 @@
       以仿生柔性操作重构机器人的劳作边界
     </div>
     <div style="text-align: center; color: white; font-size: 1.1rem;">
-      专注于柔性机械臂的创新与应用
+      专注于柔性机械臂创新与应用
     </div>
   </div>
   <!-- 16:9比例视频区域 -->
