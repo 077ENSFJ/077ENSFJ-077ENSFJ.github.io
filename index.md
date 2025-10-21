@@ -54,7 +54,7 @@
     </div>
 
     <!-- 第二个视频及文字 -->
-    <div>
+   <div>
       <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
         <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 4px;">
           <source src="./keshihua.mp4" type="video/mp4">
@@ -66,7 +66,7 @@
     </div>
 
     <!-- 第三个视频及文字 -->
-    <div>
+  <div>
       <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
         <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 4px;">
           <source src="./yidongjiaodu.mp4" type="video/mp4">
@@ -78,7 +78,7 @@
     </div>
 
     <!-- 第四个视频及文字（新增） -->
-    <div>
+  <div>
       <div style="width: 100%; padding-bottom: 56.25%; position: relative;">
         <video autoplay muted playsinline loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 4px;">
           <source src=".moduan yidongsudu/.mp4" type="video/mp4"> <!-- 替换为实际视频路径 -->
